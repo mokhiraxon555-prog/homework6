@@ -1,0 +1,21 @@
+h1, h2, h3{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2, h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: rgb(231, 28, 28);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+b{
+    color: rgb(211, 211, 27);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: rgb(47, 43, 43);
+    color: rgba(255, 255, 255, 0.858);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
